@@ -1,5 +1,15 @@
 # sourcerer package
 
-A short description of your package.
+googles the selected text based on the language set and fetches accepted answer from stack overflow.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+# Useage
+1) set language in your atom editor
+2) highlight text
+3) Do either of the following
+    - `ctrl-alt-o`
+    - `Packages` -> `sourcerer` -> `codestack`
+    - `right click -> codestack`
+
+## Demo
+
+![Package screenshot](https://media.giphy.com/media/xT9IgO9za5FbreV488/giphy.gif)
