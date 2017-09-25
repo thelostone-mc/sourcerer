@@ -2,7 +2,7 @@
 
 googles the selected text based on the language set and fetches accepted answer from stack overflow.
 
-# Useage
+### Useage
 1) set language in your atom editor
 2) highlight text
 3) Do either of the following
@@ -10,6 +10,11 @@ googles the selected text based on the language set and fetches accepted answer 
     - `Packages` -> `sourcerer` -> `codestack`
     - `right click -> codestack`
 
-## Demo
+### Dependencies [npm modules]
+- cheerio
+- google
+- requests
+
+### Demo
 
 ![Package screenshot](https://media.giphy.com/media/xT9IgO9za5FbreV488/giphy.gif)
