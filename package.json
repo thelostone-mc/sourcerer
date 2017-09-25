@@ -1,0 +1,20 @@
+{
+  "name": "sourcerer",
+  "main": "./lib/sourcerer",
+  "version": "0.0.1",
+  "description": "search your snippet on stackoverflow",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "sourcerer:fetch"
+  },
+  "repository": "https://github.com/adianand/sourcerer",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "google": "^2.1.0",
+    "request": "^2.82.0"
+  }
+}

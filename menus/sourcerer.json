@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "codestack",
+        "command": "sourcerer:fetch"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "sourcerer",
+          "submenu": [
+            {
+              "label": "codestack",
+              "command": "sourcerer:fetch"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
