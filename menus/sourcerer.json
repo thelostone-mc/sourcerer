@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "codestack",
+        "label": "sourcerer",
         "command": "sourcerer:fetch"
       }
     ]
@@ -13,12 +13,7 @@
       "submenu": [
         {
           "label": "sourcerer",
-          "submenu": [
-            {
-              "label": "codestack",
-              "command": "sourcerer:fetch"
-            }
-          ]
+          "command": "sourcerer:fetch"
         }
       ]
     }
