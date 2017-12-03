@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "sourcerer:fetch"
   },
-  "repository": "https://github.com/adianand/sourcerer",
+  "repository": "https://github.com/thelostone-mc/sourcerer",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
